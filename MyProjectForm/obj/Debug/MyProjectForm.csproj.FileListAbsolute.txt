@@ -1,0 +1,10 @@
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\bin\Debug\MyProjectForm.exe.config
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\bin\Debug\MyProjectForm.exe
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\bin\Debug\MyProjectForm.pdb
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\obj\Debug\MyProjectForm.csprojAssemblyReference.cache
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\obj\Debug\MyProjectForm.Form1.resources
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\obj\Debug\MyProjectForm.Properties.Resources.resources
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\obj\Debug\MyProjectForm.csproj.GenerateResource.cache
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\obj\Debug\MyProjectForm.csproj.CoreCompileInputs.cache
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\obj\Debug\MyProjectForm.exe
+C:\Богдан\C#\SoftServe\MyProjectForm\MyProjectForm\obj\Debug\MyProjectForm.pdb

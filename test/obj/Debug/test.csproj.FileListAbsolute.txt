@@ -1,0 +1,17 @@
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\test.dll
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\test.pdb
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\MyProjectForm.exe
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\MyProjectForm.pdb
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\MyProjectForm.exe.config
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Богдан\C#\SoftServe\MyProjectForm\test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Богдан\C#\SoftServe\MyProjectForm\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Богдан\C#\SoftServe\MyProjectForm\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Богдан\C#\SoftServe\MyProjectForm\test\obj\Debug\test.csproj.CopyComplete
+C:\Богдан\C#\SoftServe\MyProjectForm\test\obj\Debug\test.dll
+C:\Богдан\C#\SoftServe\MyProjectForm\test\obj\Debug\test.pdb
